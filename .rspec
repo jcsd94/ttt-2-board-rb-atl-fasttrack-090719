@@ -3,3 +3,10 @@
 --require spec_helper
 
 
+ row = [" ", " ", " "]
+  
+  row [0]
+
+  row [1]
+
+  row [2]
